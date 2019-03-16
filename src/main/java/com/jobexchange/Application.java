@@ -6,14 +6,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class JobExchangeApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(JobExchangeApplication.class, args);
-    }
-
-    @Bean
-    public RestTemplate getRestTemplate() {
-        return new RestTemplate();
+        SpringApplication.run(Application.class, args);
     }
 }

@@ -15,7 +15,7 @@ public class CucumberIntegrationTest {
 
     @BeforeClass
     public static void setup() {
-        JobExchangeApplication.main(new String[0]);
+        Application.main(new String[0]);
     }
 
 }
