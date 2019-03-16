@@ -19,3 +19,12 @@ The implementaion is based on below premises:
 is more than JobSearchAddress.maxJobDistance, then match fails
 
 To run standalone application, run: mvn spring-boot:run
+
+Port: 8082
+Endpoints:
+1) /workers : POST to upload workers
+              DELETE to remove all workers
+2) /jobs : POST to upload jobs
+           DELETE to remove all jobs
+3) /matches/{workerId} : GET to find job matches for the worker            
+              
