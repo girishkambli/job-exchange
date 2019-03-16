@@ -21,6 +21,7 @@ is more than JobSearchAddress.maxJobDistance, then match fails
 To run standalone application, run: mvn spring-boot:run
 
 Port: 8082
+
 Endpoints:
 1) /workers : POST to upload workers
               DELETE to remove all workers
