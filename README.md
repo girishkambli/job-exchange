@@ -17,4 +17,4 @@ The implementaion is based on below premises:
 5) JobSearchAddress conatins worker's location, Job.Location is job's location. If distance between the two
 is more than JobSearchAddress.maxJobDistance, then match fails
 
-To run standalone application:
+To run standalone application, run: mvn spring-boot:run
