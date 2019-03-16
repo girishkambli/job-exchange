@@ -1,0 +1,68 @@
+[
+  {
+    "rating":2,
+    "isActive":true,
+    "certificates":[
+      "The Risk Taker",
+      "The Encouraging Word Award",
+      "Marvelous Multitasker",
+      "Calm in the Eye of the Storm",
+      "The Behind the Scenes Wonder",
+      "Healthy Living Promoter",
+      "The Asker of Good Questions",
+      "Outside the Box Thinker",
+      "Office Lunch Expert",
+      "Outstanding Innovator",
+      "Outstanding Memory Award",
+      "The Human Handbook",
+      "Excellence in Organization",
+      "Excellence in Humor and Entertainment"
+    ],
+    "skills":[
+      "Chief Troublemaker"
+    ],
+    "jobSearchAddress":{
+      "unit":"km",
+      "maxJobDistance":45,
+      "longitude":"14.127058",
+      "latitude":"50.256714"
+    },
+    "transportation":"CAR",
+    "hasDriversLicense":true,
+    "availability":[
+      {
+        "title":"Saturday",
+        "dayIndex":6
+      },
+      {
+        "title":"Monday",
+        "dayIndex":1
+      },
+      {
+        "title":"Friday",
+        "dayIndex":5
+      },
+      {
+        "title":"Sunday",
+        "dayIndex":7
+      },
+      {
+        "title":"Wednesday",
+        "dayIndex":3
+      },
+      {
+        "title":"Thursday",
+        "dayIndex":4
+      }
+    ],
+    "phone":"+1 (835) 403-3411",
+    "email":"helga.alston@centree.ca",
+    "name":{
+      "last":"Alston",
+      "first":"Helga"
+    },
+    "age":30,
+    "guid":"562f66479f8711e1c6ce94cb",
+    "userId":1
+  }
+]
