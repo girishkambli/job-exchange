@@ -1,7 +1,7 @@
 # job-exchange
 Matching engine for a job exchange
 
-The projec has test coverage with unit-tests as well as integration-tests.
+The project has test coverage with unit-tests as well as integration-tests.
 unit-tests located under src/test
 integration-tests located under src/itest
 
@@ -16,3 +16,5 @@ The implementaion is based on below premises:
 4) Worker skill is matched to job title for exact match.
 5) JobSearchAddress conatins worker's location, Job.Location is job's location. If distance between the two
 is more than JobSearchAddress.maxJobDistance, then match fails
+
+To run standalone application:
