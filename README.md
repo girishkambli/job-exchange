@@ -1,5 +1,5 @@
-# job-exchange
-Matching engine for a job exchange
+# A matching engine for job seeker
+Matching engine for a job seeker
 
 The project has test coverage with unit-tests as well as integration-tests.
 
